@@ -2,7 +2,7 @@
 
 This solution includes an eclipse project file and may be directly opened there with "File"->"Open Projects from File System..".
 
-It illustrates the usage of a web-service located at BLZService [http://www.thomas-bayer.com/axis2/services/BLZService?wsdl].
+It illustrates the usage of a web-service located at [BLZService](http://www.thomas-bayer.com/axis2/services/BLZService?wsdl).
 
 ## Run
 
