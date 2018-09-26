@@ -21,4 +21,4 @@ Where directory *src* is used for the source code and directory *bin* for the bi
 
 ## Notes
 
-This example only works till Java 8 "out of the box". For higher versions the JAXB API library need to be added manually to the build path.
+This example only works till Java 8 "out of the box". For higher versions the JAXB API library needs to be added manually to the build path.
